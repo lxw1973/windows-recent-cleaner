@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "清理Chrome历史记录",
+  "version": "1.0",
+  "description": "一键清理Chrome浏览器历史记录",
+  "permissions": [
+    "browsingData"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+  
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
+} 
